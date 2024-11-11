@@ -4,3 +4,8 @@ package-lock.json
 *.psd
 
 public/
+
+.firebaserc
+firebase.json
+
+.firebase
